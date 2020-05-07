@@ -1,5 +1,5 @@
 # hello-world
-This is a exercise for the given tutorial
+This is a exercise sdfafor the given tutorial
 
 Hi,NoodelsPi!
 
